@@ -5,6 +5,7 @@ public class Main {
         String inputFilePath ="./input.txt";
         String outputFilePath = "./Output.txt";
 
+
         String content="";
         try {
             FileInputStream fis = new FileInputStream(inputFilePath);
